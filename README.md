@@ -1,4 +1,4 @@
-[01-CLOCK](https://kwl-clock.netlify.app/) 
+[01-CLOCK]
 ---
 ### Important stuff in project
 - Date object
@@ -7,14 +7,14 @@
 
 ---
 
-[02-CSS-VARIABLES-IN-JS](https://kwl-css-variables-in-js.netlify.app/) 
+[02-CSS-VARIABLES-IN-JS]
 ---
 ### Important stuff in project
 - CSS variable manipulate form JS
 
 ---
 
-[03-DRUM](https://kwl-drum.netlify.app/) 
+[03-DRUM]
 ---
 ### Important stuff in project
 - transitioned event
@@ -22,7 +22,7 @@
 
 ---
 
-[04-FLEXBOX-GALLERY](https://kwl-flexbox-gallery.netlify.app/) 
+[04-FLEXBOX-GALLERY]
 ---
 ### Important stuff in project
 - event transitioned
@@ -31,14 +31,14 @@
 
 ---
 
-[05-CHECKBOX-HOLD-SHIFT](https://kwl-checkbox.netlify.app/) 
+[05-CHECKBOX-HOLD-SHIFT]
 ---
 ### Important stuff in project
 - checkbox checked
 
 ---
 
-[06-CHECKBOX-HOLD-SHIFT](https://kwl-canvas.netlify.app/) 
+[06-CHECKBOX-HOLD-SHIFT]
 ---
 ### Important stuff in project
 - canvas 
@@ -47,7 +47,7 @@
 
 ---
 
-[07-TYPEHEAD](https://kwl-typehaed.netlify.app/) 
+[07-TYPEHEAD]
 ---
 ### Important stuff in project
 - transform perspective
@@ -58,7 +58,7 @@
 
 ---
 
-[08-VIDEO-PLAYER](https://kwl-video-player.netlify.app/) 
+[08-VIDEO-PLAYER]
 ---
 ### Important stuff in project
 - styling video player
@@ -68,7 +68,7 @@
 
 ---
 
-[09-SLIDE-SCROLL](https://kwl-slide-scroll.netlify.app/) 
+[09-SLIDE-SCROLL]
 ---
 ### Important stuff in project
 - debounce function
@@ -77,7 +77,7 @@
 
 ---
 
-[10-LOCALE-STORAGE](https://kwl-locale-storage.netlify.app/) 
+[10-LOCALE-STORAGE]
 ---
 ### Important stuff in project
 - localeStorage
@@ -85,7 +85,7 @@
 
 ---
 
-[11-TEXT-SHADOW-MOUSE-EVENT](https://kwl-text-shadow.netlify.app/) 
+[11-TEXT-SHADOW-MOUSE-EVENT]
 ---
 ### Important stuff in project
 - mouse event
@@ -94,7 +94,7 @@
 
 ---
 
-[12-SORTING-BAND-NAMES](https://kwl-sorting-band-names.netlify.app/) 
+[12-SORTING-BAND-NAMES]
 ---
 ### Important stuff in project
 - replace method
@@ -103,7 +103,7 @@
 
 ---
 
-[13-SUM-UP-TOTAL-TIME](https://kwl-sum-up-total-time.netlify.app/) 
+[13-SUM-UP-TOTAL-TIME]
 ---
 ### Important stuff in project
 - split method
@@ -122,7 +122,7 @@
 
 ---
 
-[15-SPEECH-RECOGNITION](https://kwl-speach-recognition.netlify.app/) 
+[15-SPEECH-RECOGNITION]
 ---
 ### Important stuff in project
 - new SpeechRecognition()
@@ -131,7 +131,7 @@
 
 ---
 
-[16-GEOLOCATION](https://kwl-geolocation.netlify.app/) 
+[16-GEOLOCATION]
 ---
 ### Important stuff in project
 - navigator
@@ -139,7 +139,7 @@
 
 ---
 
-[17-FOLLOW-ALONG-LINKS](https://kwl-follow.netlify.app/) 
+[17-FOLLOW-ALONG-LINKS]
 ---
 ### Important stuff in project
 - getBoundingClientRect()
@@ -147,7 +147,7 @@
 
 ---
 
-[18-SPEECH-SYNTHESIS](https://kwl-speech-synthesis.netlify.app/) 
+[18-SPEECH-SYNTHESIS]
 ---
 ### Important stuff in project
 - new SpeechSynthesisUtterance()
@@ -155,7 +155,7 @@
 
 ---
 
-[19-STICKY-NAV](https://kwl-sticky-nav.netlify.app/) 
+[19-STICKY-NAV]
 ---
 ### Important stuff in project
 - offsetTop
@@ -164,7 +164,7 @@
 
 ---
 
-[20-STRIPE-FOLLOW-ALONG-COURSOR](https://kwl-stripe-follow-along-coursor.netlify.app/) 
+[20-STRIPE-FOLLOW-ALONG-COURSOR]
 ---
 ### Important stuff in project
 - setTimeout
@@ -174,14 +174,14 @@
 
 ---
 
-[21-DRAG-AND-DROP](https://kwl-drag-drop.netlify.app/)
+[21-DRAG-AND-DROP]
 ---
 ### Important stuff in project
 - events mousedown / mouseleave / mouseup / mousemove
 
 ---
 
-[22-VIDEO-SPEED-CONTROLLER](https://kwl-video-speed-controller.netlify.app/)
+[22-VIDEO-SPEED-CONTROLLER]
 ---
 ### Important stuff in project
 - numbers to percent
@@ -189,14 +189,14 @@
 
 ---
 
-[23-TIMER-COUNTDOWN](https://kwl-timer-countdown.netlify.app/)
+[23-TIMER-COUNTDOWN]
 ---
 ### Important stuff in project
 - Date Object
 
 ---
 
-[24-WHACK-A-MOLE](https://kwl-mole.netlify.app/)
+[24-WHACK-A-MOLE]
 ---
 ### Important stuff in project
 - setTimeout
